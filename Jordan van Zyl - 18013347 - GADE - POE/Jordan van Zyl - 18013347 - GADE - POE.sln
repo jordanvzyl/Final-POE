@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jordan van Zyl - 18013347 - GADE - POE", "Jordan van Zyl - 18013347 - GADE - POE.csproj", "{FDD56461-3B25-F63D-7D8E-0E7878720E3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDD56461-3B25-F63D-7D8E-0E7878720E3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDD56461-3B25-F63D-7D8E-0E7878720E3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDD56461-3B25-F63D-7D8E-0E7878720E3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDD56461-3B25-F63D-7D8E-0E7878720E3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
